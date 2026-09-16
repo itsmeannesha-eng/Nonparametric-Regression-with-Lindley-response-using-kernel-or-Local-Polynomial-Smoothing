@@ -6,9 +6,9 @@ set.seed(12345)
 
 # 1. SIMULATION SETTINGS
 # Number of Monte Carlo replications
-B <- 50
+#B <- 50
 # For final simulation:
-# B <- 1000
+ B <- 1000
 # Sample sizes
 sample_sizes <- c(50, 100, 200, 500)
 # Evaluation grid
